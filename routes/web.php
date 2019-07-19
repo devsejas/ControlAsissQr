@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', 'StudentsController@index');
-
+Route::get('/', 'HomeController@index');
+Route::get('students', 'StudentsController@index');
 Route::get('students/{id}', 'StudentsController@show');
