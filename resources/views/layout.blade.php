@@ -74,7 +74,7 @@
                   >
                   <ul class="dropdown-menu">
                     <li class="nav-item">
-                      <a class="nav-link" href="/students">Estudiantes</a>
+                      <a class="nav-link" href="/student">Estudiantes</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="course-details.html"

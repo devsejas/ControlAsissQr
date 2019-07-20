@@ -14,3 +14,4 @@
 Route::get('/', 'HomeController@index');
 Route::get('students', 'StudentsController@index');
 Route::get('students/{id}', 'StudentsController@show');
+Route::get('student', 'StudentsController@create');
